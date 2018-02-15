@@ -42,7 +42,7 @@ Bu oluşturduğumuz sıralamaylada resimleri birleştirdik.
 
 ![QR Sonuc](https://github.com/xugurercan/DKHOS_Writeups/blob/master/Forensics/Forensic200/EkranGoruntusu3.png)
 
-Elde ettiğimiz QR kodunu Web QR okuyucudan ne var baktık hemen.
+Elde ettiğimiz QR kodunu ![Web QR](https://online-barcode-reader.inliteresearch.com/) okuyucudan ne var baktık hemen.
 
 ![QR Sonuc](https://github.com/xugurercan/DKHOS_Writeups/blob/master/Forensics/Forensic200/EkranGoruntusu4.png)
 
