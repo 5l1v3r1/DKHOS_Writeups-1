@@ -28,6 +28,7 @@ Bunu yaptıktan sonra bu sıralamaya uyacak şekilde bir sıralama algoritması 
 
 İpucunu görüp soruyu tekrar okuyunca bir aydınlanma geldi, oda ne bizim sorunun içerisindeki ilk kelime p ile başlıyor n ile bitiyor son kelimemizde n ile başlıyor i ile bitiyor. 
 
+**İpucundan Sonra**
 > **P**elinsu'nu**n** **u**ğradığ**ı** **b**irço**k** **l**okasyond**a** **k**o**d** **p**arçalar**ı** **b**ulunmaktayd**ı**. **İ**puc**u** **n**eyd**i** ? 
 
 Hemen bu kelimelerin sırasına göre resimlerimizi sıraladık arada türkçe karakterler var onlarıda ingilizceye çevirdik. Aşağıdaki gibi bir çıktı elde ettik.
@@ -36,6 +37,7 @@ Hemen bu kelimelerin sırasına göre resimlerimizi sıraladık arada türkçe k
 
 Bu oluşturduğumuz sıralamaylada resimleri birleştirdik.
 
+**Komut**
 > montage \*.jpg qr.pdf
 
 ![QR Sonuc](https://github.com/xugurercan/DKHOS_Writeups/blob/master/Forensics/Forensic200/EkranGoruntusu3.png)
