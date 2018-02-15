@@ -23,6 +23,7 @@ Tüm resimleri birleştirip bir QR kod elde etmeyi deneyip işe yaramadığını
 
 Bunu yaptıktan sonra bu sıralamaya uyacak şekilde bir sıralama algoritması üretmeye çalıştık. Örneğin resimlerin hepsi aynı boyutta değildi aynı boyuttaki resimleri bu elimizdeki sıraya göre dizmeye çalıştık, sondaki sayıya göre tersten sıraladık pn9 başta olması gerektiği için, ortadaki harfe göre bir deneme yaptık ama hiç bir şekilde başarılı bir sonuç elde edemedik. Sonra bir ipucu yayınlandı.
 
+**İpucu**
 > İpucu Sorunun içinde saklı.
 
 İpucunu görüp soruyu tekrar okuyunca bir aydınlanma geldi, oda ne bizim sorunun içerisindeki ilk kelime p ile başlıyor n ile bitiyor son kelimemizde n ile başlıyor i ile bitiyor. 
