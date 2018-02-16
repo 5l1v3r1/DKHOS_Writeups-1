@@ -2,7 +2,7 @@
 
 ### Soru
 > Pelinsu'nun uğradığı birçok lokasyonda kod parçaları bulunmaktaydı. İpucu neydi ? 
-> ![Dosyayı indir](https://github.com/xugurercan/DKHOS_Writeups/blob/master/Forensics/Forensic200/5e4d6213453b23d161887fc099062bcf9be57e26.zip)
+> [Dosyayı indir](https://github.com/xugurercan/DKHOS_Writeups/blob/master/Forensics/Forensic200/5e4d6213453b23d161887fc099062bcf9be57e26.zip)
 
 
 ### Çözüm
